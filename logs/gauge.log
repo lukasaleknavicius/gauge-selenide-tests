@@ -1,0 +1,131 @@
+14:21:44.467 Plugin java is already installed.
+14:21:44.469 Plugin html-report is already installed.
+14:21:45.326 Checking updates...
+14:21:47.648 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to page" > 
+14:21:47.648 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to page" parameterizedStepValue:"Navigate to page" > > 
+14:21:50.833 # Specification Heading
+14:21:50.835 ## Vowels in English language are "aeiou".
+14:21:50.837 * Navigate to page
+14:21:55.833 Plugin [Html Report] with pid [9124] has exited
+14:21:57.108 Specifications:	1 executed	1 passed	0 failed	0 skipped
+14:21:57.108 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+14:21:57.110 
+Total time taken: 6.242s
+14:21:57.111 Updates are available. Run `gauge update -c` for more info.
+14:25:11.370 Plugin java is already installed.
+14:25:11.371 Plugin html-report is already installed.
+14:25:12.286 Checking updates...
+14:25:14.534 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login <standart_user>" > 
+14:25:14.534 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login {}" parameterizedStepValue:"Login <standart_user>" parameters:"standart_user" > > 
+14:25:14.541 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to page" > 
+14:25:14.541 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to page" parameterizedStepValue:"Navigate to page" > > 
+14:25:18.369 # Specification Heading
+14:25:18.370 ## Open page
+14:25:18.372 * Navigate to page
+14:25:24.878 Plugin [Html Report] with pid [3012] has exited
+14:25:25.986 Specifications:	1 executed	1 passed	0 failed	0 skipped
+14:25:25.986 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+14:25:25.986 
+Total time taken: 8.663s
+14:25:25.986 Updates are available. Run `gauge update -c` for more info.
+14:26:37.785 Plugin java is already installed.
+14:26:37.785 Plugin html-report is already installed.
+14:26:38.596 Checking updates...
+14:26:40.961 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login <standart_user>" > 
+14:26:40.962 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login {}" parameterizedStepValue:"Login <standart_user>" parameters:"standart_user" > > 
+14:26:40.968 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to page" > 
+14:26:40.969 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to page" parameterizedStepValue:"Navigate to page" > > 
+14:26:44.193 # Specification Heading
+14:26:44.195 ## Open page
+14:26:44.197 * Navigate to page
+14:26:48.263 Plugin [Html Report] with pid [15060] has exited
+14:26:49.371 Specifications:	1 executed	1 passed	0 failed	0 skipped
+14:26:49.371 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+14:26:49.371 
+Total time taken: 5.6s
+14:26:49.371 Updates are available. Run `gauge update -c` for more info.
+14:27:34.391 Plugin java is already installed.
+14:27:34.391 Plugin html-report is already installed.
+14:27:35.291 Checking updates...
+14:27:37.517 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login <username>" > 
+14:27:37.517 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login {}" parameterizedStepValue:"Login <username>" parameters:"username" > > 
+14:27:37.524 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to page" > 
+14:27:37.524 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to page" parameterizedStepValue:"Navigate to page" > > 
+14:27:40.604 # Specification Heading
+14:27:40.606 ## Open page
+14:27:40.607 * Navigate to page
+14:27:44.614 * Login "standart_user"
+14:27:50.032 Plugin [Html Report] with pid [15720] has exited
+14:27:51.139 Specifications:	1 executed	1 passed	0 failed	0 skipped
+14:27:51.139 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+14:27:51.139 
+Total time taken: 10.841s
+14:27:51.140 Updates are available. Run `gauge update -c` for more info.
+14:27:59.799 Plugin java is already installed.
+14:27:59.799 Plugin html-report is already installed.
+14:28:00.615 Checking updates...
+14:28:03.045 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login <username>" > 
+14:28:03.045 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login {}" parameterizedStepValue:"Login <username>" parameters:"username" > > 
+14:28:03.052 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to page" > 
+14:28:03.052 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to page" parameterizedStepValue:"Navigate to page" > > 
+14:28:06.208 # Specification Heading
+14:28:06.210 ## Open page
+14:28:06.211 * Navigate to page
+14:28:10.182 * Login "standart_user"
+14:28:15.608 Plugin [Html Report] with pid [17224] has exited
+14:28:16.523 Specifications:	1 executed	1 passed	0 failed	0 skipped
+14:28:16.523 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+14:28:16.523 
+Total time taken: 10.828s
+14:28:16.524 Updates are available. Run `gauge update -c` for more info.
+14:28:51.046 Plugin java is already installed.
+14:28:51.047 Plugin html-report is already installed.
+14:28:51.874 Checking updates...
+14:28:54.106 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login <username>" > 
+14:28:54.106 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login {}" parameterizedStepValue:"Login <username>" parameters:"username" > > 
+14:28:54.113 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to page" > 
+14:28:54.113 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to page" parameterizedStepValue:"Navigate to page" > > 
+14:28:57.467 # Specification Heading
+14:28:57.469 ## Open page
+14:28:57.471 * Navigate to page
+14:29:01.390 * Login "standart_user"
+14:29:06.885 Plugin [Html Report] with pid [15248] has exited
+14:29:07.690 Specifications:	1 executed	1 passed	0 failed	0 skipped
+14:29:07.690 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+14:29:07.690 
+Total time taken: 11.128s
+14:29:07.691 Updates are available. Run `gauge update -c` for more info.
+14:29:53.907 Plugin html-report is already installed.
+14:29:53.908 Plugin java is already installed.
+14:29:54.720 Checking updates...
+14:29:57.077 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login <username>" > 
+14:29:57.077 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login {}" parameterizedStepValue:"Login <username>" parameters:"username" > > 
+14:29:57.084 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to page" > 
+14:29:57.084 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to page" parameterizedStepValue:"Navigate to page" > > 
+14:30:00.173 # Specification Heading
+14:30:00.175 ## Open page
+14:30:00.176 * Navigate to page
+14:30:04.108 * Login "standard_user"
+14:30:12.025 Plugin [Html Report] with pid [15844] has exited
+14:30:13.131 Specifications:	1 executed	1 passed	0 failed	0 skipped
+14:30:13.131 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+14:30:13.131 
+Total time taken: 13.3s
+14:30:13.132 Updates are available. Run `gauge update -c` for more info.
+14:30:24.393 Plugin java is already installed.
+14:30:24.394 Plugin html-report is already installed.
+14:30:25.335 Checking updates...
+14:30:27.466 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login <username>" > 
+14:30:27.466 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login {}" parameterizedStepValue:"Login <username>" parameters:"username" > > 
+14:30:27.475 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to page" > 
+14:30:27.475 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to page" parameterizedStepValue:"Navigate to page" > > 
+14:30:30.456 # Specification Heading
+14:30:30.458 ## Open page
+14:30:30.460 * Navigate to page
+14:30:34.381 * Login "standard_user"
+14:30:40.038 Plugin [Html Report] with pid [16516] has exited
+14:30:40.843 Specifications:	1 executed	1 passed	0 failed	0 skipped
+14:30:40.843 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+14:30:40.843 
+Total time taken: 10.904s
+14:30:40.844 Updates are available. Run `gauge update -c` for more info.
